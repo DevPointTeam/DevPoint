@@ -1,0 +1,748 @@
+[ Thu Jun  2 10:20:16 2016 ]=>  тњ3 ĠњΘs̲т [124406196] added SuperGroup
+ 
+[ Thu Jun  2 10:28:41 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu Jun  2 10:41:17 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 10:42:17 2016 ]=>  тњ3 ĠњΘs̲т [124406196] locked emoji
+ 
+[ Thu Jun  2 10:43:49 2016 ]=>  тњ3 ĠњΘs̲т [124406196] added SuperGroup
+ 
+[ Thu Jun  2 10:44:36 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu Jun  2 10:44:49 2016 ]=>  тњ3_ĠњΘs̲т [124406196] Used /superhelp
+ 
+[ Thu Jun  2 10:45:19 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested group rules
+ 
+[ Thu Jun  2 10:49:22 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested group modlist
+ 
+[ Thu Jun  2 10:49:31 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup Admins list
+ 
+[ Thu Jun  2 10:49:48 2016 ]=>  тњ3 ĠњΘs̲т [124406196] demoted: [224372882] from admin by reply
+ 
+[ Thu Jun  2 10:49:54 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup Admins list
+ 
+[ Thu Jun  2 10:52:32 2016 ]=>  тњ3 ĠњΘs̲т [124406196] set: [224372882] as admin by reply
+ 
+[ Thu Jun  2 10:53:07 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup Admins list
+ 
+[ Thu Jun  2 10:53:13 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 10:53:42 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 10:56:18 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu Jun  2 10:56:50 2016 ]=>  тњ3 ĠњΘs̲т [124406196] locked emoji
+ 
+[ Thu Jun  2 10:57:04 2016 ]=>  🔻ÂĿΊÂĿռщÂB̶̷̩̥͡🔺 @idev2 [39770224] kicked for #spam
+ 
+[ Thu Jun  2 10:57:58 2016 ]=>  тњ3 ĠњΘs̲т [124406196] locked fosh
+ 
+[ Thu Jun  2 10:59:38 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu Jun  2 11:02:31 2016 ]=>  тњ3 ĠњΘs̲т [124406196] attempted to create a new SuperGroup link
+ 
+[ Thu Jun  2 11:02:39 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested group link [https://telegram.me/joinchat/DL-EHT-rFy_8DK7IltCbxQ]
+ 
+[ Thu Jun  2 11:17:08 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 11:23:41 2016 ]=>  тњ3 ĠњΘs̲т [124406196] set SuperGroup to: mute All
+ 
+[ Thu Jun  2 11:24:24 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup info
+ 
+[ Thu Jun  2 11:24:57 2016 ]=>  тњ3 ĠњΘs̲т [124406196] obtained id for: [213877789]
+ 
+[ Thu Jun  2 11:27:18 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup users list
+ 
+[ Thu Jun  2 11:27:52 2016 ]=>  тњ3 ĠњΘs̲т [124406196] set SuperGroup to: unmute All
+ 
+[ Thu Jun  2 11:40:23 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu Jun  2 11:41:12 2016 ]=>  тњ3 ĠњΘs̲т [124406196] locked leave
+ 
+[ Thu Jun  2 11:51:05 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 12:01:15 2016 ]=>  тњe ĠњΘs̲т [124406196] kicked: @idev2 [39770224]
+ 
+[ Thu Jun  2 12:02:25 2016 ]=>  тњe ĠњΘs̲т [124406196] kicked: @idev2 [39770224]
+ 
+[ Thu Jun  2 12:02:55 2016 ]=>  тњe ĠњΘs̲т [124406196] unlocked tgservice actions
+ 
+[ Thu Jun  2 12:04:39 2016 ]=>  тњe ĠњΘs̲т [124406196] kicked: @idev2 [39770224]
+ 
+[ Thu Jun  2 12:32:05 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 12:33:39 2016 ]=>  тњe_ĠњΘs̲т [124406196] Used /superhelp
+ 
+[ Thu Jun  2 13:04:45 2016 ]=>  тњe_ĠњΘs̲т [124406196] Used /superhelp
+ 
+[ Thu Jun  2 13:09:22 2016 ]=>  тњe ĠњΘs̲т [124406196] set SuperGroup to: mute All
+ 
+[ Thu Jun  2 13:10:05 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 13:11:00 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu Jun  2 13:21:07 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 14:45:51 2016 ]=>  тњe ĠњΘs̲т [124406196] set SuperGroup to: mute Photo
+ 
+[ Thu Jun  2 14:52:58 2016 ]=>  тњe ĠњΘs̲т [124406196] set SuperGroup to: unmute All
+ 
+[ Thu Jun  2 15:06:31 2016 ]=>  тњe_ĠњΘs̲т [124406196] Used /superhelp
+ 
+[ Thu Jun  2 15:21:24 2016 ]=>  тњe ĠњΘs̲т [124406196] promoted mod: @@Dev_ip[224372882] by reply
+ 
+[ Thu Jun  2 15:28:11 2016 ]=>  тњe ĠњΘs̲т [124406196] demoted @Dev_ip
+ 
+[ Thu Jun  2 15:28:20 2016 ]=>  тњe ĠњΘs̲т [124406196] promoted @Dev_ip
+ 
+[ Thu Jun  2 15:28:25 2016 ]=>  тњe ĠњΘs̲т [124406196] demoted @Dev_ip
+ 
+[ Thu Jun  2 15:38:31 2016 ]=>  тњe ĠњΘs̲т [124406196] set SuperGroup to: unmute Photo
+ 
+[ Thu Jun  2 16:15:24 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu Jun  2 16:15:49 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 16:15:57 2016 ]=>  🔻ÂĿΊ ÂĿռщÂB̶̷͡ ̩̥🔺 [39770224] requested SuperGroup ID
+ 
+[ Thu Jun  2 16:19:06 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu Jun  2 16:22:06 2016 ]=>  тњe_ĠњΘs̲т [124406196] saved [g] as > 🎗➖➖➖🎗➖➖➖🎗
+ℹ️SuperGroups Settings: ⬇️
+💟Group name : DEV POINT
+🎗➖➖➖🎗➖➖➖🎗
+🔗lock links : no
+📵Lock contacts: no
+🔐Lock flood: no
+👾Flood sensitivity : 5
+📊Lock spam: no
+🆎Lock Arabic: no
+👤Lock Member: no
+📌Lock RTL: no
+🔯Lock Tgservice: no
+🎡Lock sticker: no
+➕Lock tag(#): no
+😃Lock emoji: no
+🔠Lock english: no
+↩️Lock fwd(forward): no
+🔃lock reply: no
+🚷Lock join: no
+♏️Lock username(@): no
+🆘lock media: no
+🏧Lock badword: no
+🚶Lock leave: no
+🤖Lock bots: no
+🅾Lock operator: no
+🎗➖➖➖🎗➖➖➖🎗
+ℹ️Speed Commands: ⬇️
+🎗➖➖➖🎗➖➖➖🎗
+💡switch Model Etehad: no
+🔕Lock all: no
+🎗➖➖➖🎗➖➖➖🎗
+ℹ️About Group: ⬇️
+🎗➖➖➖🎗➖➖➖🎗
+💠group type: support
+✳️Public: no
+⛔️Strict settings: no
+🎗➖➖➖🎗➖➖➖🎗
+ℹ️bot version : v1.1
+
+🌐 DEV🎗POINT🎗TEAM 🌐
+ 
+[ Thu Jun  2 16:22:11 2016 ]=>  тњe_ĠњΘs̲т [124406196] used /get g
+ 
+[ Thu Jun  2 16:23:45 2016 ]=>  тњe_ĠњΘs̲т [124406196] saved [k] as > علاوي العلم 😂
+ 
+[ Thu Jun  2 16:23:51 2016 ]=>  тњe_ĠњΘs̲т [124406196] used /get k
+ 
+[ Thu Jun  2 16:25:17 2016 ]=>  тњe_ĠњΘs̲т [124406196] saved [العراقي] as > العريض
+ 
+[ Thu Jun  2 16:25:32 2016 ]=>  тњe_ĠњΘs̲т [124406196] used /get العراقي
+ 
+[ Thu Jun  2 16:26:07 2016 ]=>  тњe_ĠњΘs̲т [124406196] saved [القوانين] as > اذا تحجي ابول عليك 🍃🍃
+ 
+[ Thu Jun  2 16:26:17 2016 ]=>  тњe_ĠњΘs̲т [124406196] used /get القوانين
+ 
+[ Thu Jun  2 16:27:16 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 16:37:07 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 16:41:36 2016 ]=>  🔻ÂĿΊ ÂĿռщÂB̶̷͡ ̩̥🔺 [39770224] requested SuperGroup ID
+ 
+[ Thu Jun  2 16:41:37 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 16:44:56 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 16:45:15 2016 ]=>  🔻ÂĿΊ ÂĿռщÂB̶̷͡ ̩̥🔺 [39770224] requested SuperGroup ID
+ 
+[ Thu Jun  2 16:46:03 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 16:48:05 2016 ]=>  тњe_ĠњΘs̲т [124406196] saved [f] as > /save g
+🎗➖➖➖🎗➖➖➖🎗
+ℹ️SuperGroups Settings: ⬇️
+💟Group name : DEV POINT
+🎗➖➖➖🎗➖➖➖🎗
+🔗lock links : no
+📵Lock contacts: no
+🔐Lock flood: no
+👾Flood sensitivity : 5
+📊Lock spam: no
+🆎Lock Arabic: no
+👤Lock Member: no
+📌Lock RTL: no
+🔯Lock Tgservice: no
+🎡Lock sticker: no
+➕Lock tag(#): no
+😃Lock emoji: no
+🔠Lock english: no
+↩️Lock fwd(forward): no
+🔃lock reply: no
+🚷Lock join: no
+♏️Lock username(@): no
+🆘lock media: no
+🏧Lock badword: no
+🚶Lock leave: no
+🤖Lock bots: no
+🅾Lock operator: no
+🎗➖➖➖🎗➖➖➖🎗
+ℹ️Speed Commands: ⬇️
+🎗➖➖➖🎗➖➖➖🎗
+💡switch Model Etehad: no
+🔕Lock all: no
+🎗➖➖➖🎗➖➖➖🎗
+ℹ️About Group: ⬇️
+🎗➖➖➖🎗➖➖➖🎗
+💠group type: support
+✳️Public: no
+⛔️Strict settings: no
+🎗➖➖➖🎗➖➖➖🎗
+ℹ️bot version : v1.1
+
+🌐 DEV🎗POINT🎗TEAM 🌐
+ 
+[ Thu Jun  2 16:48:11 2016 ]=>  тњe_ĠњΘs̲т [124406196] used /get f
+ 
+[ Thu Jun  2 16:50:58 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu Jun  2 16:52:34 2016 ]=>  тњe ĠњΘs̲т [124406196] has changed group rules to [Dont Take Groups Silent now 🔕]
+ 
+[ Thu Jun  2 16:52:40 2016 ]=>  тњe ĠњΘs̲т [124406196] requested group rules
+ 
+[ Thu Jun  2 16:53:22 2016 ]=>  тњe ĠњΘs̲т [124406196] has changed group rules to [Dont Take Groups Silent now 🔕 Dont Speak English Here 🙂]
+ 
+[ Thu Jun  2 16:53:28 2016 ]=>  тњe ĠњΘs̲т [124406196] requested group rules
+ 
+[ Thu Jun  2 16:53:56 2016 ]=>  тњe ĠњΘs̲т [124406196] has changed group rules to [Dont Take Groups Silent now 🔕 Dont Speak English Here 🍃😐🍃]
+ 
+[ Thu Jun  2 16:54:04 2016 ]=>  тњe ĠњΘs̲т [124406196] requested group rules
+ 
+[ Thu Jun  2 16:55:16 2016 ]=>  тњe ĠњΘs̲т [124406196] has changed group rules to [Dont Take Groups Silent now 🔕 Dont Speak English Here 
+if you need help send msg to @TH3_GHOST 🍃😐🍃]
+ 
+[ Thu Jun  2 16:55:21 2016 ]=>  тњe ĠњΘs̲т [124406196] requested group rules
+ 
+[ Thu Jun  2 17:23:43 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] requested SuperGroup ID
+ 
+[ Thu Jun  2 17:28:14 2016 ]=>  мσнαммє∂┇Ŧ.ł.Q┇zє∂αη [197920376] promoted mod: @@Dev_ip[224372882] by reply
+ 
+[ Thu Jun  2 18:06:05 2016 ]=>  тњe_ĠњΘs̲т [124406196] Used /superhelp
+ 
+[ Thu Jun  2 18:10:10 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu Jun  2 18:32:27 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup users list
+ 
+[ Thu Jun  2 18:32:47 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup muteslist
+ 
+[ Thu Jun  2 18:54:17 2016 ]=>  тњe ĠњΘs̲т [124406196] promoted @idev2
+ 
+[ Thu Jun  2 18:54:32 2016 ]=>  тњe ĠњΘs̲т [124406196] demoted @idev2
+ 
+[ Thu Jun  2 18:54:41 2016 ]=>  тњe ĠњΘs̲т[124406196] set [39770224] as owner by username
+ 
+[ Thu Jun  2 18:55:17 2016 ]=>  тњe ĠњΘs̲т [124406196] demoted admin @idev2
+ 
+[ Thu Jun  2 18:58:52 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup Admins list
+ 
+[ Thu Jun  2 18:59:11 2016 ]=>  тњe ĠњΘs̲т [124406196] set: [124406196] as owner by reply
+ 
+[ Thu Jun  2 19:09:17 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu Jun  2 19:09:40 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu Jun  2 19:14:10 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu Jun  2 19:16:30 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup muteslist
+ 
+[ Thu Jun  2 19:35:26 2016 ]=>  тњe_ĠњΘs̲т [124406196] used /teleseed 
+ 
+[ Thu Jun  2 19:35:34 2016 ]=>  тњe_ĠњΘs̲т [124406196] used /teleseed 
+ 
+[ Thu Jun  2 19:35:54 2016 ]=>  тњe_ĠњΘs̲т [124406196] used /teleseed 
+ 
+[ Thu Jun  2 19:36:12 2016 ]=>  тњe_ĠњΘs̲т [124406196] used /teleseed 
+ 
+[ Thu Jun  2 19:38:37 2016 ]=>  тњe_ĠњΘs̲т [124406196] requested group stats 
+ 
+[ Thu Jun  2 19:43:21 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 19:46:37 2016 ]=>  тњe_ĠњΘs̲т [124406196] used /devpoint 
+ 
+[ Thu Jun  2 19:48:06 2016 ]=>  тњe_ĠњΘs̲т [124406196] used /devpoint 
+ 
+[ Thu Jun  2 19:49:27 2016 ]=>  тњe_ĠњΘs̲т [124406196] used /devpoint 
+ 
+[ Thu Jun  2 19:53:05 2016 ]=>  тњe ĠњΘs̲т [124406196] promoted @idev2
+ 
+[ Thu Jun  2 19:53:11 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup Admins list
+ 
+[ Thu Jun  2 19:53:22 2016 ]=>  тњe ĠњΘs̲т [124406196] requested group modlist
+ 
+[ Thu Jun  2 19:54:09 2016 ]=>  тњe ĠњΘs̲т [124406196] cleaned modlist
+ 
+[ Thu Jun  2 19:55:15 2016 ]=>  тњe ĠњΘs̲т [124406196] kicked: @Dev_ip [224372882]
+ 
+[ Thu Jun  2 19:55:46 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup Admins list
+ 
+[ Thu Jun  2 19:56:22 2016 ]=>  тњe ĠњΘs̲т [124406196] set: [124406196] as admin by reply
+ 
+[ Thu Jun  2 19:56:48 2016 ]=>  тњe ĠњΘs̲т [124406196] demoted @MOHAMMED_ZEDAN
+ 
+[ Thu Jun  2 19:57:07 2016 ]=>  тњe ĠњΘs̲т [124406196] demoted admin @MOHAMMED_ZEDAN
+ 
+[ Thu Jun  2 19:58:06 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 19:58:56 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu Jun  2 19:59:10 2016 ]=>  тњe ĠњΘs̲т [124406196] locked flood 
+ 
+[ Thu Jun  2 20:00:09 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup Admins list
+ 
+[ Thu Jun  2 20:32:54 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu Jun  2 20:37:47 2016 ]=>  тњe ĠњΘs̲т [124406196] set SuperGroup to: mute Video
+ 
+[ Thu Jun  2 20:38:42 2016 ]=>  тњe ĠњΘs̲т [124406196] locked media
+ 
+[ Thu Jun  2 20:39:46 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 20:42:51 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 20:46:55 2016 ]=>  тњe ĠњΘs̲т [124406196] set: [39770224] as admin by reply
+ 
+[ Thu Jun  2 20:48:03 2016 ]=>  мσнαммє∂┇Ŧ.ł.Q┇zє∂αη [197920376] demoted: [39770224] from admin by reply
+ 
+[ Thu Jun  2 20:48:03 2016 ]=>  тњe ĠњΘs̲т [124406196] demoted: [39770224] from admin by reply
+ 
+[ Thu Jun  2 20:48:22 2016 ]=>  тњe ĠњΘs̲т [124406196] set: [197920376] as owner by reply
+ 
+[ Thu Jun  2 20:54:35 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup muteslist
+ 
+[ Thu Jun  2 20:54:42 2016 ]=>  мσнαммє∂┇Ŧ.ł.Q┇zє∂αη [197920376] promoted mod: @@idev2[39770224] by reply
+ 
+[ Thu Jun  2 20:54:45 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu Jun  2 20:56:09 2016 ]=>  🔻ÂĿΊ ÂĿռщÂB̶̷͡ ̩̥🔺 [39770224] requested SuperGroup ID
+ 
+[ Thu Jun  2 20:56:57 2016 ]=>  🔻ÂĿΊ ÂĿռщÂB̶̷͡ ̩̥🔺 [39770224] requested SuperGroup ID
+ 
+[ Thu Jun  2 20:58:51 2016 ]=>  тњe_ĠњΘs̲т [124406196] Used /superhelp
+ 
+[ Thu Jun  2 21:03:08 2016 ]=>  мσнαммє∂┇Ŧ.ł.Q┇zє∂αη [197920376] set SuperGroup to: mute Gifs
+ 
+[ Thu Jun  2 21:15:14 2016 ]=>  тњe ĠњΘs̲т [124406196] locked fosh
+ 
+[ Thu Jun  2 21:15:30 2016 ]=>  🔻ÂĿΊ ÂĿռщÂB̶̷͡ ̩̥🔺 [39770224] locked fosh
+ 
+[ Thu Jun  2 21:17:07 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup muteslist
+ 
+[ Thu Jun  2 21:17:14 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu Jun  2 21:20:02 2016 ]=>  мσнαммє∂┇Ŧ.ł.Q┇zє∂αη [197920376] locked fosh
+ 
+[ Thu Jun  2 21:20:21 2016 ]=>  мσнαммє∂┇Ŧ.ł.Q┇zє∂αη [197920376] unlocked fosh
+ 
+[ Thu Jun  2 21:21:45 2016 ]=>  мσнαммє∂┇Ŧ.ł.Q┇zє∂αη [197920376] set: [224372882] as owner by reply
+ 
+[ Thu Jun  2 21:22:17 2016 ]=>  мσнαммє∂┇Ŧ.ł.Q┇zє∂αη [197920376] requested SuperGroup settings 
+ 
+[ Thu Jun  2 21:23:21 2016 ]=>  мσнαммє∂┇Ŧ.ł.Q┇zє∂αη [197920376] requested SuperGroup ID
+ 
+[ Thu Jun  2 21:25:11 2016 ]=>  тњe ĠњΘs̲т [124406196] unlocked spam
+ 
+[ Thu Jun  2 21:27:48 2016 ]=>  тњe ĠњΘs̲т [124406196] locked spam 
+ 
+[ Thu Jun  2 21:28:53 2016 ]=>  мσнαммє∂┇Ŧ.ł.Q┇zє∂αη [197920376] requested SuperGroup ID
+ 
+[ Thu Jun  2 21:29:21 2016 ]=>  🔻ÂĿΊ ÂĿռщÂB̶̷͡ ̩̥🔺 [39770224] requested SuperGroup ID
+ 
+[ Thu Jun  2 21:29:32 2016 ]=>  тњe ĠњΘs̲т [124406196] locked spam 
+ 
+[ Thu Jun  2 21:30:28 2016 ]=>  тњe ĠњΘs̲т [124406196] locked flood 
+ 
+[ Thu Jun  2 21:30:31 2016 ]=>  منشئكروبينوماكل...😒😂.منوراهم @Mslove23 [144215209] kicked for #spam
+ 
+[ Thu Jun  2 21:31:20 2016 ]=>  тњe ĠњΘs̲т [124406196] unlocked spam
+ 
+[ Thu Jun  2 21:31:27 2016 ]=>  тњe ĠњΘs̲т [124406196] locked spam 
+ 
+[ Thu Jun  2 21:31:42 2016 ]=>  мσнαммє∂┇Ŧ.ł.Q┇zє∂αη [197920376] locked spam 
+ 
+[ Thu Jun  2 21:31:48 2016 ]=>  мσнαммє∂┇Ŧ.ł.Q┇zє∂αη [197920376] locked flood 
+ 
+[ Thu Jun  2 21:41:09 2016 ]=>  мσнαммє∂┇Ŧ.ł.Q┇zє∂αη [197920376] set SuperGroup to: mute Documents
+ 
+[ Thu Jun  2 21:41:19 2016 ]=>  мσнαммє∂┇Ŧ.ł.Q┇zє∂αη [197920376] set SuperGroup to: unmute Documents
+ 
+[ Thu Jun  2 22:01:18 2016 ]=>  тњe ĠњΘs̲т [124406196] started setting new SuperGroup photo
+ 
+[ Thu Jun  2 22:01:43 2016 ]=>  тњe ĠњΘs̲т [124406196] set new SuperGroup photo
+ 
+[ Thu Jun  2 22:21:03 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu Jun  2 23:48:50 2016 ]=>  тњe ĠњΘs̲т [124406196] locked media
+ 
+[ Thu Jun  2 23:49:53 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri Jun  3 03:37:23 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] requested SuperGroup ID
+ 
+[ Fri Jun  3 03:38:15 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] set SuperGroup to: mute Photo
+ 
+[ Fri Jun  3 03:38:40 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] set SuperGroup to: unmute Photo
+ 
+[ Fri Jun  3 03:38:49 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] locked link posting 
+ 
+[ Fri Jun  3 03:39:14 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] unlocked link posting
+ 
+[ Fri Jun  3 03:39:53 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] requested SuperGroup settings 
+ 
+[ Fri Jun  3 03:40:19 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] locked operator
+ 
+[ Fri Jun  3 03:41:17 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] locked operator
+ 
+[ Fri Jun  3 03:42:11 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] Used /superhelp
+ 
+[ Fri Jun  3 03:44:45 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] requested SuperGroup users list
+ 
+[ Fri Jun  3 03:47:03 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] requested SuperGroup ID
+ 
+[ Fri Jun  3 07:25:14 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] requested SuperGroup ID
+ 
+[ Fri Jun  3 07:25:21 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] requested group link [https://telegram.me/joinchat/DL-EHT-rFy_8DK7IltCbxQ]
+ 
+[ Fri Jun  3 07:25:29 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] attempted to create a new SuperGroup link
+ 
+[ Fri Jun  3 07:26:05 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] renamed SuperGroup to: DEV || POINT
+ 
+[ Fri Jun  3 07:26:05 2016 ]=>  SUPER DEV POINT [0] renamed SuperGroup to: DEV || POINT
+ 
+[ Fri Jun  3 07:28:22 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] renamed SuperGroup to: DEV || POINT ㈇™
+ 
+[ Fri Jun  3 07:28:22 2016 ]=>  SUPER DEV POINT [0] renamed SuperGroup to: DEV || POINT ㈇™
+ 
+[ Fri Jun  3 07:28:40 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] requested group rules
+ 
+[ Fri Jun  3 07:41:52 2016 ]=>  мσнαммє∂┇Ŧ.ł.Q┇zє∂αη [197920376] set: [224372882] as owner by reply
+ 
+[ Fri Jun  3 07:48:21 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] locked fwd
+ 
+[ Fri Jun  3 08:25:30 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 09:47:15 2016 ]=>  тњe ĠњΘs̲т [124406196] locked media
+ 
+[ Fri Jun  3 09:47:26 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri Jun  3 09:48:44 2016 ]=>  тњe ĠњΘs̲т [124406196] unlocked fosh
+ 
+[ Fri Jun  3 09:48:57 2016 ]=>  тњe ĠњΘs̲т [124406196] unlocked fwd
+ 
+[ Fri Jun  3 11:11:01 2016 ]=>  тњe ĠњΘs̲т [124406196] locked media
+ 
+[ Fri Jun  3 11:23:02 2016 ]=>  тњe ĠњΘs̲т [124406196] cleaned modlist
+ 
+[ Fri Jun  3 11:25:06 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 11:25:25 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 11:25:44 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 11:25:47 2016 ]=>  тњe ĠњΘs̲т [124406196] locked media
+ 
+[ Fri Jun  3 11:26:49 2016 ]=>  тњe ĠњΘs̲т [124406196] set: [124406196] as owner by reply
+ 
+[ Fri Jun  3 11:32:05 2016 ]=>  тњe ĠњΘs̲т [124406196] unlocked media
+ 
+[ Fri Jun  3 11:32:11 2016 ]=>  тњe ĠњΘs̲т [124406196] locked fwd
+ 
+[ Fri Jun  3 12:00:33 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 12:00:47 2016 ]=>  тњe ĠњΘs̲т [124406196] renamed SuperGroup to: DEV POINT
+ 
+[ Fri Jun  3 12:00:47 2016 ]=>  SUPER DEV POINT [0] renamed SuperGroup to: DEV POINT
+ 
+[ Fri Jun  3 12:00:59 2016 ]=>  тњe ĠњΘs̲т [124406196] started setting new SuperGroup photo
+ 
+[ Fri Jun  3 12:01:17 2016 ]=>  тњe ĠњΘs̲т [124406196] set new SuperGroup photo
+ 
+[ Fri Jun  3 12:01:30 2016 ]=>  тњe ĠњΘs̲т [124406196] unlocked fwd
+ 
+[ Fri Jun  3 12:05:15 2016 ]=>  тњe ĠњΘs̲т [124406196] locked fwd
+ 
+[ Fri Jun  3 12:05:52 2016 ]=>  тњe ĠњΘs̲т [124406196] locked media
+ 
+[ Fri Jun  3 12:14:21 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 14:14:19 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 14:14:45 2016 ]=>  тњe_ĠњΘs̲т [124406196] Used /superhelp
+ 
+[ Fri Jun  3 14:23:59 2016 ]=>  🔻ÂĿΊ ÂĿռщÂB̶̷͡ ̩̥🔺 [39770224] requested group rules
+ 
+[ Fri Jun  3 14:25:51 2016 ]=>  тњe ĠњΘs̲т [124406196] locked fwd
+ 
+[ Fri Jun  3 14:26:03 2016 ]=>  тњe ĠњΘs̲т [124406196] unlocked media
+ 
+[ Fri Jun  3 14:28:18 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri Jun  3 14:40:03 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri Jun  3 14:41:13 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri Jun  3 14:44:23 2016 ]=>  тњe ĠњΘs̲т [124406196] locked media
+ 
+[ Fri Jun  3 14:45:30 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup muteslist
+ 
+[ Fri Jun  3 14:46:37 2016 ]=>  тњe ĠњΘs̲т [124406196] unlocked media
+ 
+[ Fri Jun  3 14:46:44 2016 ]=>  тњe ĠњΘs̲т [124406196] unlocked fwd
+ 
+[ Fri Jun  3 14:47:11 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri Jun  3 14:47:36 2016 ]=>  тњe ĠњΘs̲т [124406196] locked media
+ 
+[ Fri Jun  3 14:48:14 2016 ]=>  тњe ĠњΘs̲т [124406196] locked fwd
+ 
+[ Fri Jun  3 14:50:10 2016 ]=>  тњe ĠњΘs̲т [124406196] promoted mod: @@Dev_ip[224372882] by reply
+ 
+[ Fri Jun  3 14:56:49 2016 ]=>  тњe ĠњΘs̲т [124406196] locked media
+ 
+[ Fri Jun  3 15:18:12 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] requested SuperGroup ID
+ 
+[ Fri Jun  3 15:18:19 2016 ]=>  тњe ĠњΘs̲т [124406196] demoted @Dev_ip
+ 
+[ Fri Jun  3 15:20:43 2016 ]=>  тњe ĠњΘs̲т [124406196] locked fwd
+ 
+[ Fri Jun  3 15:22:19 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri Jun  3 15:23:04 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri Jun  3 15:24:14 2016 ]=>  тњe ĠњΘs̲т [124406196] locked flood 
+ 
+[ Fri Jun  3 15:26:50 2016 ]=>  тњe ĠњΘs̲т [124406196] locked media
+ 
+[ Fri Jun  3 15:27:17 2016 ]=>  тњe ĠњΘs̲т [124406196] unlocked media
+ 
+[ Fri Jun  3 15:27:24 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup muteslist
+ 
+[ Fri Jun  3 15:27:35 2016 ]=>  тњe ĠњΘs̲т [124406196] set SuperGroup to: unmute Video
+ 
+[ Fri Jun  3 15:29:04 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri Jun  3 15:37:19 2016 ]=>  тњe_ĠњΘs̲т [124406196] used /devpoint 
+ 
+[ Fri Jun  3 15:39:03 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 15:39:17 2016 ]=>  🔻ÂĿΊ ÂĿռщÂB̶̷͡ ̩̥🔺 [39770224] requested SuperGroup ID
+ 
+[ Fri Jun  3 16:00:55 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri Jun  3 16:02:11 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri Jun  3 16:03:59 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 16:18:14 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri Jun  3 16:21:12 2016 ]=>  тњe ĠњΘs̲т [124406196] unlocked reply
+ 
+[ Fri Jun  3 16:22:09 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri Jun  3 16:23:07 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup muteslist
+ 
+[ Fri Jun  3 16:23:20 2016 ]=>  тњe ĠњΘs̲т [124406196] set SuperGroup to: unmute Gifs
+ 
+[ Fri Jun  3 16:25:57 2016 ]=>  тњe ĠњΘs̲т [124406196] locked reply
+ 
+[ Fri Jun  3 16:27:08 2016 ]=>  тњe ĠњΘs̲т [124406196] unlocked reply
+ 
+[ Fri Jun  3 16:27:17 2016 ]=>  тњe ĠњΘs̲т [124406196] promoted mod: @@Dev_ip[224372882] by reply
+ 
+[ Fri Jun  3 16:53:57 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 17:02:47 2016 ]=>  тњe ĠњΘs̲т [124406196] cleaned modlist
+ 
+[ Fri Jun  3 17:05:18 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 17:11:10 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 18:08:07 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 19:58:29 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri Jun  3 20:11:44 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 20:17:27 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 21:50:56 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 22:08:26 2016 ]=>  тњe ĠњΘs̲т [124406196] requested group link [https://telegram.me/joinchat/DL-EHT-rFy_4IzAtQKypig]
+ 
+[ Fri Jun  3 22:09:17 2016 ]=>  (محظور)امۘـﮨﮨيۨۚـﮨرۛۜ  بـﮨۨۚﮨـﺸـೂۗﺨۣـصۚـۣۗيـتۣۣۗۖـيۣۗ [169422342] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Jun  3 22:10:43 2016 ]=>  тњe ĠњΘs̲т [124406196] added [@ali_alnwab11] to the muted users list
+ 
+[ Fri Jun  3 22:10:53 2016 ]=>  тњe ĠњΘs̲т [124406196] removed [@ali_alnwab11] from the muted users list
+ 
+[ Fri Jun  3 22:15:25 2016 ]=>  (محظور)امۘـﮨﮨيۨۚـﮨرۛۜ  بـﮨۨۚﮨـﺸـೂۗﺨۣـصۚـۣۗيـتۣۣۗۖـيۣۗ [169422342] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Jun  3 22:15:55 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri Jun  3 22:19:09 2016 ]=>  тњe ĠњΘs̲т [124406196] locked media
+ 
+[ Fri Jun  3 22:49:58 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 22:51:06 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup info
+ 
+[ Fri Jun  3 22:52:12 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri Jun  3 22:52:32 2016 ]=>  тњe ĠњΘs̲т [124406196] unlocked media
+ 
+[ Fri Jun  3 23:04:51 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 23:34:07 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri Jun  3 23:39:03 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sat Jun  4 00:20:07 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sat Jun  4 00:46:25 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Sat Jun  4 01:07:35 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sat Jun  4 07:51:51 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sat Jun  4 08:04:21 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sat Jun  4 08:33:39 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Sat Jun  4 08:38:47 2016 ]=>  тњe ĠњΘs̲т [124406196] locked media
+ 
+[ Sat Jun  4 08:49:40 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sat Jun  4 09:08:09 2016 ]=>  тњe ĠњΘs̲т [124406196] started setting new SuperGroup photo
+ 
+[ Sat Jun  4 09:08:20 2016 ]=>  тњe ĠњΘs̲т [124406196] set new SuperGroup photo
+ 
+[ Sat Jun  4 09:21:12 2016 ]=>  тњe ĠњΘs̲т [124406196] unlocked media
+ 
+[ Sat Jun  4 09:26:29 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sat Jun  4 09:32:04 2016 ]=>  тњe ĠњΘs̲т [124406196] requested group link [https://telegram.me/joinchat/DL-EHT-rFy_4IzAtQKypig]
+ 
+[ Sat Jun  4 09:35:18 2016 ]=>  тњe ĠњΘs̲т [124406196] attempted to create a new SuperGroup link
+ 
+[ Sat Jun  4 09:35:25 2016 ]=>  тњe ĠњΘs̲т [124406196] requested group link [https://telegram.me/joinchat/DL-EHT-rFy_OZB5jvXWAtg]
+ 
+[ Sat Jun  4 09:38:23 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Sat Jun  4 09:41:51 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sat Jun  4 10:22:36 2016 ]=>  тњe ĠњΘs̲т [124406196] locked media
+ 
+[ Sat Jun  4 10:27:32 2016 ]=>  тњe ĠњΘs̲т [124406196] locked fwd
+ 
+[ Sat Jun  4 10:30:01 2016 ]=>  тњe ĠњΘs̲т [124406196] requested group link [https://telegram.me/joinchat/DL-EHT-rFy_OZB5jvXWAtg]
+ 
+[ Sat Jun  4 10:33:37 2016 ]=>  (محظور)امۘـﮨﮨيۨۚـﮨرۛۜ  بـﮨۨۚﮨـﺸـೂۗﺨۣـصۚـۣۗيـتۣۣۗۖـيۣۗ [169422342] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Jun  4 10:34:10 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Sat Jun  4 10:53:56 2016 ]=>  тњe ĠњΘs̲т [124406196] locked flood 
+ 
+[ Sat Jun  4 10:54:51 2016 ]=>  (محظور)امۘـﮨﮨيۨۚـﮨرۛۜبـﮨۨۚﮨـﺸـೂۗﺨۣـصۚـۣۗيـتۣۣۗۖـيۣۗ @aboode15 [169422342] kicked for #spam
+ 
+[ Sat Jun  4 11:20:58 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sat Jun  4 12:28:13 2016 ]=>  тњe_ĠњΘs̲т [124406196] Used /superhelp
+ 
+[ Sat Jun  4 13:12:15 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sat Jun  4 14:25:08 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sat Jun  4 15:07:16 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sat Jun  4 15:58:51 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sat Jun  4 16:37:33 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sat Jun  4 16:37:42 2016 ]=>  🔻ÂĿΊ ÂĿռщÂB̶̷͡ ̩̥🔺 [39770224] requested SuperGroup ID
+ 
+[ Sat Jun  4 18:00:22 2016 ]=>  тњe ĠњΘs̲т [124406196] requested group link [https://telegram.me/joinchat/DL-EHT-rFy_OZB5jvXWAtg]
+ 
+[ Sat Jun  4 18:54:24 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sat Jun  4 19:10:16 2016 ]=>  🔻ÂĿΊ ÂĿռщÂB̶̷͡ ̩̥🔺 [39770224] requested SuperGroup ID
+ 
+[ Sat Jun  4 19:10:34 2016 ]=>  🔻ÂĿΊÂĿռщÂB̶̷̩̥͡🔺 [39770224] banned user is talking !
+ 
+[ Sat Jun  4 19:15:04 2016 ]=>  тњe ĠњΘs̲т [124406196] requested group link [https://telegram.me/joinchat/DL-EHT-rFy_OZB5jvXWAtg]
+ 
+[ Sat Jun  4 19:16:03 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sun Jun  5 10:18:28 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup users list
+ 
+[ Sun Jun  5 11:00:37 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sun Jun  5 13:52:17 2016 ]=>  тњe_ĠњΘs̲т [124406196] Used /superhelp
+ 
+[ Sun Jun  5 13:52:51 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup Admins list
+ 
+[ Sun Jun  5 13:53:23 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sun Jun  5 14:01:49 2016 ]=>  тњe ĠњΘs̲т [124406196] requested group link [https://telegram.me/joinchat/DL-EHT-rFy_OZB5jvXWAtg]
+ 
+[ Sun Jun  5 14:02:10 2016 ]=>  (محظور)امۘـﮨﮨيۨۚـﮨرۛۜ  بـﮨۨۚﮨـﺸـೂۗﺨۣـصۚـۣۗيـتۣۣۗۖـيۣۗ [169422342] joined and Service Msg deleted (#spam name)
+ 
+[ Sun Jun  5 14:20:20 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sun Jun  5 14:20:47 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Sun Jun  5 14:21:45 2016 ]=>  тњe ĠњΘs̲т [124406196] unlocked media
+ 
+[ Sun Jun  5 14:21:56 2016 ]=>  тњe ĠњΘs̲т [124406196] unlocked fwd
+ 
+[ Sun Jun  5 14:22:06 2016 ]=>  тњe ĠњΘs̲т [124406196] set flood to [15]
+ 
+[ Sun Jun  5 16:31:59 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sun Jun  5 16:46:58 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Sun Jun  5 18:18:01 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Sun Jun  5 18:18:06 2016 ]=>  тњe_ĠњΘs̲т [124406196] Used /superhelp
+ 
+[ Sun Jun  5 20:23:08 2016 ]=>  тњe ĠњΘs̲т [124406196] renamed SuperGroup to: Dev Point Support
+ 
+[ Sun Jun  5 20:23:08 2016 ]=>  SUPER DEV POINT [0] renamed SuperGroup to: Dev Point Support
+ 
+[ Sun Jun  5 20:40:36 2016 ]=>  тњe ĠњΘs̲т [124406196] locked fwd
+ 
+[ Sun Jun  5 20:53:06 2016 ]=>  тњe ĠњΘs̲т [124406196] started setting new SuperGroup photo
+ 
+[ Sun Jun  5 20:53:41 2016 ]=>  тњe ĠњΘs̲т [124406196] set new SuperGroup photo
+ 
+[ Sun Jun  5 23:43:54 2016 ]=>  тњe_ĠњΘs̲т [124406196] Used /superhelp
+ 
+[ Mon Jun  6 10:06:58 2016 ]=>  тњe ĠњΘs̲т [124406196] requested group link [https://telegram.me/joinchat/DL-EHT-rFy_OZB5jvXWAtg]
+ 
+[ Mon Jun  6 11:51:25 2016 ]=>  тњe ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 

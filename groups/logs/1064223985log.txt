@@ -1,0 +1,116 @@
+[ Thu May 26 16:38:45 2016 ]=>  тњ3 ĠњΘs̲т [124406196] added SuperGroup
+ 
+[ Thu May 26 16:39:31 2016 ]=>  тњ3 ĠњΘs̲т [124406196] set: [224372882] as admin by reply
+ 
+[ Thu May 26 16:39:42 2016 ]=>  тњ3 ĠњΘs̲т [124406196] demoted: [224372882] from admin by reply
+ 
+[ Thu May 26 16:39:55 2016 ]=>  тњ3 ĠњΘs̲т [124406196] promoted mod: @@Dev_ip[224372882] by reply
+ 
+[ Thu May 26 17:26:46 2016 ]=>  тњ3 ĠњΘs̲т [124406196] added SuperGroup
+ 
+[ Thu May 26 19:39:35 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu May 26 19:39:44 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup info
+ 
+[ Thu May 26 19:59:58 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu May 26 20:00:18 2016 ]=>  тњ3 ĠњΘs̲т [124406196] locked arabic 
+ 
+[ Thu May 26 20:00:35 2016 ]=>  тњ3 ĠњΘs̲т [124406196] unlocked Arabic
+ 
+[ Thu May 26 20:01:03 2016 ]=>  тњ3 ĠњΘs̲т [124406196] unlocked spam
+ 
+[ Thu May 26 20:09:18 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu May 26 20:50:18 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu May 26 21:00:34 2016 ]=>  тњ3 ĠњΘs̲т [124406196] unlocked flood
+ 
+[ Thu May 26 21:00:42 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Thu May 26 21:01:53 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested group modlist
+ 
+[ Thu May 26 21:02:09 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu May 26 21:04:04 2016 ]=>  тњ3 ĠњΘs̲т [124406196] promoted @Dev_ip
+ 
+[ Thu May 26 21:04:52 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested group modlist
+ 
+[ Thu May 26 21:35:23 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu May 26 21:37:29 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri May 27 07:09:37 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested group modlist
+ 
+[ Fri May 27 08:52:02 2016 ]=>  тњ3 ĠњΘs̲т [124406196] cleaned modlist
+ 
+[ Fri May 27 08:52:10 2016 ]=>  тњ3 ĠњΘs̲т [124406196] set SuperGroup to: mute All
+ 
+[ Fri May 27 08:52:24 2016 ]=>  тњ3 ĠњΘs̲т [124406196] unlocked flood
+ 
+[ Fri May 27 08:57:47 2016 ]=>  тњ3 ĠњΘs̲т [124406196] set SuperGroup to: unmute All
+ 
+[ Fri May 27 09:05:49 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri May 27 09:06:01 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 09:06:32 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri May 27 09:07:41 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 09:08:12 2016 ]=>  тњ3 ĠњΘs̲т [124406196] locked emoji
+ 
+[ Fri May 27 09:09:00 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri May 27 09:09:41 2016 ]=>  тњ3 ĠњΘs̲т [124406196] locked reply
+ 
+[ Fri May 27 09:11:17 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 09:11:59 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 09:21:21 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 09:23:37 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 09:29:49 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri May 27 09:36:48 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] requested SuperGroup ID
+ 
+[ Fri May 27 09:37:08 2016 ]=>  ۩۝ணмόЋA̶̷͡ммȆÐ/DEV🐯🍷ண۝۩ [224372882] requested SuperGroup ID
+ 
+[ Fri May 27 09:38:50 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri May 27 09:39:20 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri May 27 09:41:17 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri May 27 09:45:01 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri May 27 09:49:25 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 09:50:18 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 09:55:32 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 09:56:50 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 09:58:07 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 10:00:52 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 10:02:28 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 10:07:01 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 10:13:21 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 10:14:07 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 10:14:41 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 10:15:41 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 11:44:31 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 13:14:00 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 

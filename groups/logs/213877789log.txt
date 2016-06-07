@@ -1,0 +1,34 @@
+[ Thu May 19 15:28:40 2016 ]=>  тњ3_ĠњΘs̲т [124406196] used pm help
+ 
+[ Thu May 19 16:19:03 2016 ]=>  тњ3_ĠњΘs̲т [124406196] used pm help
+ 
+[ Thu May 19 16:31:36 2016 ]=>  тњ3_ĠњΘs̲т [124406196] used pm help
+ 
+[ Thu May 19 22:27:08 2016 ]=>  тњ3_ĠњΘs̲т [124406196] used pm help
+ 
+[ Fri May 20 08:25:27 2016 ]=>  тњ3_ĠњΘs̲т [124406196] used pm help
+ 
+[ Fri May 20 11:39:12 2016 ]=>  тњ3_ĠњΘs̲т [124406196] used pm help
+ 
+[ Fri May 20 12:41:22 2016 ]=>  тњ3_ĠњΘs̲т [124406196] used /teleseed 
+ 
+[ Fri May 20 12:50:10 2016 ]=>  тњ3_ĠњΘs̲т [124406196] tried to join English support
+ 
+[ Sat May 21 16:52:38 2016 ]=>  тњ3_ĠњΘs̲т [124406196] used pm help
+ 
+[ Sat May 21 19:06:50 2016 ]=>  тњ3_ĠњΘs̲т [124406196] used pm help
+ 
+[ Sat May 21 21:03:45 2016 ]=>  тњ3_ĠњΘs̲т [124406196] used pm help
+ 
+[ Sat May 28 00:25:00 2016 ]=>  тњ3_ĠњΘs̲т [124406196] Used /superhelp
+ 
+[ Thu Jun  2 20:29:30 2016 ]=>  тњe_ĠњΘs̲т [124406196] Used /superhelp
+ 
+[ Fri Jun  3 15:44:30 2016 ]=>  тњe_ĠњΘs̲т [124406196] used pm help
+ 
+[ Fri Jun  3 15:45:56 2016 ]=>  тњe_ĠњΘs̲т [124406196] used /devpoint 
+ 
+[ Fri Jun  3 15:46:20 2016 ]=>  тњe_ĠњΘs̲т [124406196] Used /superhelp
+ 
+[ Fri Jun  3 15:48:16 2016 ]=>  тњe_ĠњΘs̲т [124406196] Used /chatlist
+ 

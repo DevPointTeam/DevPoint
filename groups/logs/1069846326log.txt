@@ -1,0 +1,54 @@
+[ Thu May 19 15:27:21 2016 ]=>  тњ3 ĠњΘs̲т [124406196] added SuperGroup
+ 
+[ Thu May 19 15:28:10 2016 ]=>  тњ3 ĠњΘs̲т [124406196] has changed group rules to [https://telegram.me/DevPointCH]
+ 
+[ Thu May 19 15:28:27 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested group rules
+ 
+[ Thu May 19 17:03:13 2016 ]=>  тњ3 ĠњΘs̲т [124406196] set: [84166280] as owner by reply
+ 
+[ Thu May 19 19:27:34 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Thu May 19 20:57:11 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested group rules
+ 
+[ Thu May 19 22:36:54 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested group rules
+ 
+[ Thu May 19 22:38:11 2016 ]=>  ▦🔰 ţњə đēvį̲l 🔰▦ [84166280] requested group rules
+ 
+[ Fri May 20 03:59:17 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested group rules
+ 
+[ Fri May 20 04:00:36 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri May 20 07:04:20 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri May 20 11:37:15 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 
+[ Fri May 20 12:07:54 2016 ]=>  ▦🔰 ţњə đēvį̲l 🔰▦ [84166280] requested SuperGroup ID
+ 
+[ Fri May 20 15:00:50 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested group modlist
+ 
+[ Fri May 20 15:01:03 2016 ]=>  тњ3 ĠњΘs̲т [124406196] set: [84166280] as owner by reply
+ 
+[ Fri May 20 15:01:23 2016 ]=>  тњ3 ĠњΘs̲т [124406196] used /owner
+ 
+[ Fri May 20 15:01:40 2016 ]=>  тњ3 ĠњΘs̲т [124406196] resolved username: @lIVIl
+ 
+[ Fri May 20 15:13:18 2016 ]=>  тњ3_ĠњΘs̲т [124406196] used /teleseed 
+ 
+[ Sat May 21 13:22:52 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested group rules
+ 
+[ Thu May 26 13:54:00 2016 ]=>  тњ3 ĠњΘs̲т[124406196] set [84166280] as owner by username
+ 
+[ Fri May 27 23:18:49 2016 ]=>  тњ3_ĠњΘs̲т [124406196] Used /superhelp
+ 
+[ Fri May 27 23:19:34 2016 ]=>  ▦🔰 ţњə đēvį̲l 🔰▦ [84166280] set SuperGroup to: mute All
+ 
+[ Fri May 27 23:49:23 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup settings 
+ 
+[ Fri May 27 23:51:12 2016 ]=>  тњ3 ĠњΘs̲т [124406196] added SuperGroup
+ 
+[ Sat May 28 14:53:40 2016 ]=>  тњ3 ĠњΘs̲т [124406196] locked link posting 
+ 
+[ Sat May 28 14:53:50 2016 ]=>  тњ3 ĠњΘs̲т [124406196] unlocked link posting
+ 
+[ Sat May 28 14:57:08 2016 ]=>  тњ3 ĠњΘs̲т [124406196] requested SuperGroup ID
+ 

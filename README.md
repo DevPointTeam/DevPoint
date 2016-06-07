@@ -1,5 +1,5 @@
-# DevPoint
-Source Dev Point to make protection for groups by bots from spam and FLASHING
+# DevPoint 🔱
+Source Dev Point to make protection for groups by bots from spam and FLASHING 🔰
 # Team [DevPoint](https://telegram.me/DevPointTeam)
 * * *
 

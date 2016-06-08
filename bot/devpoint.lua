@@ -269,7 +269,8 @@ function create_config( )
     "instagram",
     "voice",
     "bye",
-    "dobye"
+    "dobye",
+    "weather"
     },
     sudo_users = {124406196},--Sudo users
     moderation = {data = 'data/moderation.json'},

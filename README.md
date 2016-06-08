@@ -202,10 +202,10 @@ DevPoint has several commands that are only usable at certain ranks.
 
 | Command | Description | Groups? | SuperGroups? | Realms? |
 |:--------|:------------|:--------|:-------------|:--------|
-| [#!/]setwlc [text] | set massage welcome to Groups | Y | Y | Y |
-| [#!/]delwlc | delete massage welcome to Groups | Y | Y | Y |
-| [#!/]setbye [text] | set massage bye to Groups | Y | Y | Y |
-| [#!/]delbye | delete massage bye to Groups | Y | Y | Y |
+| [#!/]setwlc [text] | set massage welcome to Groups | N | Y | Y |
+| [#!/]delwlc | delete massage welcome to Groups | N | Y | Y |
+| [#!/]setbye [text] | set massage bye to Groups | N | Y | Y |
+| [#!/]delbye | delete massage bye to Groups | N | Y | Y |
 
 
 ### Ranks 
@@ -272,7 +272,7 @@ Create a realm using the `!createrealm` command.
 
 * * *
 
-# Support and development [@DevPointTeam](https://telegram.me/DevPointTeam) 👤🐾
+# Support and development [@DevPointTeam](https://telegram.me/DevPointTeam) 🐾
 
 # Special thanks to [@teleseed](https://telegram.me/teleseedCH) ❤️
 

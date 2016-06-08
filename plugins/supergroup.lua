@@ -1253,7 +1253,7 @@ function get_message_callback(extra, success, result)
     end
 		local member_id = result.from.peer_id
 		--local user = "user#id"..result.peer_id
-		savelog(msg.to.id, name_log.." ["..msg.from.id.."] demoted mod: @"..member_username.."["..user_id.."] by reply")
+		savelog(msg.to.id, name_log.." ["..msg.from.id.."] demoted mod: @"..member_username.."["..result.from.peer_id.."] by reply")
 		demote2("channel#id"..result.to.peer_id, member_username, member_id)
 		--channel_demote(channel_id, user, ok_cb, false)
 	elseif get_cmd == 'mute_user' then

@@ -270,7 +270,10 @@ function create_config( )
     "voice",
     "bye",
     "dobye",
-    "weather"
+    "weather",
+    "time",
+    "echo",
+    "send"
     },
     sudo_users = {124406196},--Sudo users
     moderation = {data = 'data/moderation.json'},

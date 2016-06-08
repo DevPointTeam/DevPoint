@@ -280,7 +280,7 @@ function create_config( )
     about_text = [[DevPoint v1
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/DevPointTeam/DevPoint
 
 Admins
 @TH3_GHOST

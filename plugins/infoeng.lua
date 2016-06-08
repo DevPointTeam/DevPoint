@@ -109,7 +109,7 @@ local function action_by_reply(extra, success, result)-- (reply) /info  function
 		 end
 		 
     local text = '♍️- name : '..(result.from.first_name or '')..' '..(result.from.last_name or '')..'\n'
-               ..'♑️- user : '..Username..'\n'
+               ..'♑️- username : '..Username..'\n'
                ..'♑️- your ID : '..result.from.id..'\n\n'
 	local hash = 'whois:'..result.to.id..':variables'
 		local value = redis:hget(hash, result.from.id)
@@ -176,7 +176,7 @@ local function run(msg, matches)
 end
    local text = '♍️- First Name : '..(msg.from.first_name or 'لا يوجد ')..'\n'
    local text = text..'♒️- Last Name : '..(msg.from.last_name or 'لا يوجد ')..'\n'	
-   local text = text..'♑️- User : '..Username..'\n'
+   local text = text..'♑️- Username : '..Username..'\n'
    local text = text..'🆔- Your id : '..msg.from.id..'\n'
   local text = text..'📲- phone : '..(msg.from.phone or 'لا يوجد ')..'\n'
    local hash = 'rank:'..msg.to.id..':variables'

@@ -266,7 +266,7 @@ Create a realm using the `!createrealm` command.
 
 # Special thanks to [@teleseed](https://telegram.me/teleseedCH) ❤️
 
-For managing [@DevPointTeam](https://telegram.me/DevPointTeam) on Telegram.
+For managing on Telegram.
 Development [@TH3_GHOST](https://telegram.me/TH3_GHOST) ❤️
 Subscribe to Source channel [@DevPointTeam](https://telegram.me/DevPointTeam) 💢
 

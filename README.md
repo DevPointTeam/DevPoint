@@ -63,7 +63,7 @@ DevPoint has several commands that are only usable at certain ranks.
 | [#!/]unmute [mute](#mutes-mutes) | unmute group message types. | Y | Y |
 | [#!/]setflood [value](#settings-settings) | Set [value] as flood sensitivity.| Y | Y |
 | [#!/]silent [username<html>&#124;</html>id<html>&#124;</html>reply] | Mute and unmute a user in chat. ***If a muted user posts a message, the message is deleted automaically only owners can mute <html>&#124;</html> mods and owners can unmute*** | Y | Y |
-| [#!/]mutelist | Returns list of muted users in group/SuperGroup. | Y | Y |
+| [#!/]silentlist | Returns list of muted users in group/SuperGroup. | Y | Y |
 | [#!/]muteslist | Returns mutes for group/SuperGroup. | Y | Y |
 | [#!/]settings | Returns a list of group/SuperGroup settings. | Y | Y |
 | [#!/]stats | Returns simple message statistics in a .txt document. | Y | Y |
@@ -71,6 +71,7 @@ DevPoint has several commands that are only usable at certain ranks.
 | [#!/]banlist | Returns group/SuperGroup banlist. | Y | Y |
 | [#!/]clean [rules<html>&#124;</html>about<html>&#124;</html>modlisthtml>&#124;</html>bots<html>&#124;</html>mutelist] | Clears rules, about, modlist, bots, or mutelist | Y | Y |
 | [#!/]del | Deletes a message by reply. | N | Y |
+| [#!/]clean | Deletes all messages in Group. | N | Y |
 | [#!/]res [username] | Returns users name and id by username. | Y | Y |
 | [#!/]log | Returns group logs.***In SuperGroups:*** Search for kick reasons using [#RTL<html>&#124;</html>#spam<html>&#124;</html>#lockmember] | Y | Y |
 
@@ -266,4 +267,5 @@ Create a realm using the `!createrealm` command.
 
 For managing [@DevPointTeam](https://telegram.me/DevPointTeam) on Telegram.
 Development [@TH3_GHOST](https://telegram.me/TH3_GHOST) ❤️
+# Subscribe to Source channel [@DevPointTeam](https://telegram.me/DevPointTeam) 💢
 

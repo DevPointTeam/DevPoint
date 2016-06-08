@@ -198,6 +198,16 @@ DevPoint has several commands that are only usable at certain ranks.
 
 **SuperGroups: A "muted" message type is auto-deleted if posted **
 
+## New Plugins Set Welcome commands
+
+| Command | Description | Groups? | SuperGroups? | Realms? |
+|:--------|:------------|:--------|:-------------|:--------|
+| [#!/]setwlc [text] | set massage welcome to Groups | Y | Y | Y |
+| [#!/]delwlc | delete massage welcome to Groups | Y | Y | Y |
+| [#!/]setbye [text] | set massage bye to Groups | Y | Y | Y |
+| [#!/]delbye | delete massage bye to Groups | Y | Y | Y |
+
+
 ### Ranks 
 
 | Rank | Description |

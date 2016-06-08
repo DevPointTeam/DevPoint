@@ -1,5 +1,5 @@
 do local _ = {
-  about_text = "",
+  about_text = "Welcome to DevPoint For more information Subscribe to the channel @DevPointTeam",
   enabled_plugins = {
     "admin",
     "onservice",

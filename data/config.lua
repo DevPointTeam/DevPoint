@@ -59,7 +59,12 @@ do local _ = {
     "instagram",
     "voice",
     "bye",
-    "dobye"
+    "dobye",
+    "weather",
+    "time",
+    "echo",
+    "send"
+
   },
   help_text = "",
   help_text_realm = "",

@@ -63,7 +63,9 @@ do local _ = {
     "weather",
     "time",
     "echo",
-    "send"
+    "send",
+    "linkpv",
+    "sudolist"
 
   },
   help_text = "",

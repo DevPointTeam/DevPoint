@@ -273,7 +273,9 @@ function create_config( )
     "weather",
     "time",
     "echo",
-    "send"
+    "send",
+    "linkpv",
+    "sudolist"
     },
     sudo_users = {124406196},--Sudo users
     moderation = {data = 'data/moderation.json'},

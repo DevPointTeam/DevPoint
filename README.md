@@ -2,13 +2,13 @@
 Source Dev Point to make protection for groups by bots from spam and FLASHING 🔰
 # Team [DevPoint](https://telegram.me/DevPointTeam)
 #Update in source Dev Point ✅
-I added ➕
-1- Auto Launch
-2- script steady.sh
-3- plugin kick media
-4- warns links in Group
-5- plugin clean banlist
-6- and more plugins ...
+**I added ➕**
+**1- Auto Launch**
+**2- script devpoint.sh**
+**3- plugin kick media**
+**4- warns links in Group**
+**5- plugin clean banlist**
+**6- and more plugins ...**
 * * *
 
 ## Commands
